@@ -1,7 +1,7 @@
 vis module
 ==========
 
-.. automodule:: vis
+.. automodule:: src.vis
    :members:
    :undoc-members:
    :show-inheritance:
